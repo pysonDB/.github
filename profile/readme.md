@@ -1,4 +1,4 @@
-![data](https://raw.githubusercontent.com/fredysomy/pysonDB/master/images/file2son.png?token=APXKHAH6EDEJ7RUG3QOD2OC7ZHQZG)
+<img align=left src="https://raw.githubusercontent.com/fredysomy/pysonDB/master/images/file2son.png?token=APXKHAH6EDEJ7RUG3QOD2OC7ZHQZG" width="510" height="180" />
 
 
 ## A Simple, Lightweight, Efficent JSON based DataBase for Python
